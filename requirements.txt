@@ -1,0 +1,9 @@
+numpy
+pandas
+yfinance
+finvizfinance
+statsmodels
+plotly
+holidays
+langchain_community
+streamlit
